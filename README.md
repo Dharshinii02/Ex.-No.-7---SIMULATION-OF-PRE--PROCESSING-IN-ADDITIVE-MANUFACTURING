@@ -1,5 +1,7 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### Name:Dharshini J
+### Register Number:212224240036
+### DATE: 02/5/2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 

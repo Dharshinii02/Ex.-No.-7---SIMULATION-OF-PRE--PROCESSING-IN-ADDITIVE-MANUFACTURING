@@ -48,8 +48,7 @@
 ## Output:
 ![Screenshot 2025-05-02 110200](https://github.com/user-attachments/assets/2590383c-8c4a-461f-9bd1-453bd3c36e1b)
 
-### Name:
-### Register Number:
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
